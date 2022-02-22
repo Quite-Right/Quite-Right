@@ -8,4 +8,4 @@
 <code>🧑‍💻 Languages: JavaScript, C</code>
 <code>📦 Tech stack: node.js</code>
 <code>💬 telegram: [@quite_right](https://telegram.me/quite_right)</code>
-<code>📫 novogrudskiy.dv@gmail.com(mailto:novogrudskiy.dv@gmail.com)</code>
+<code>📫 [novogrudskiy.dv@gmail.com](mailto:novogrudskiy.dv@gmail.com)</code>
