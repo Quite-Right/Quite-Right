@@ -1,4 +1,4 @@
-<code>🎓 Bachelor: Rea Plekhanov | Applied mathematics and informatics</code>
+<code>🎓 Bachelor: Rea Plekhanov | Applied mathematics and informatics</code> \
 <code>👷 Speciality: Lead Frontend Developer | React </code><br>
 <code>💡 [Skills](SKILLS.md)</code>
 <code>🧻 [Projects](PROJECTS.md)</code>
